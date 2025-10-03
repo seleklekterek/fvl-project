@@ -1,0 +1,13 @@
+name: my-project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - ipykernel
+  - black
+  - ruff
+  - pre-commit
+  - nbstripout
+  - nbdime
+  - pip
