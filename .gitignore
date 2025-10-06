@@ -1,8 +1,14 @@
+.ruff_cache/
 __pycache__/
+.mypy_cache/
+.cache/
 *.py[cod]
+*.pyc
 .ipynb_checkpoints/
 .venv/ env/ venv/
 .DS_Store
 .vscode/
-data/
+data/raw/
+data/processed/
+reports/figures/
 models/
