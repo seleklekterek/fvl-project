@@ -5,6 +5,4 @@ __pycache__/
 .vscode/
 .ipynb_checkpoints/
 data/raw/
-data/processed/*.tmp
-data/processed/vacancies_vintages.csv
 outputs/
