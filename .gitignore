@@ -1,14 +1,10 @@
-.ruff_cache/
 __pycache__/
-.mypy_cache/
-.cache/
-*.py[cod]
 *.pyc
-.ipynb_checkpoints/
-.venv/ env/ venv/
-.DS_Store
+.venv/
+.env
 .vscode/
+.ipynb_checkpoints/
 data/raw/
-data/processed/
-reports/figures/
-models/
+data/processed/*.tmp
+data/processed/vacancies_vintages.csv
+outputs/
